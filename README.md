@@ -4,7 +4,7 @@
 
 ◆ coordinates.ipynb : 画像ファイルのXY座標を表示する
 
-[pyファイルはこちら](https://github.com/iwakazusuwa/py_coordinates)
+👉 [pyファイルはこちら](https://github.com/iwakazusuwa/py_coordinates)
 
 
 詳しい使い方や解説は以下の記事をご覧ください。
